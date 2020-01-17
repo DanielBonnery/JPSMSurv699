@@ -1,9 +1,11 @@
-# Package name
+# JPSMSurv699
+
+##Description
+
+Wrapup package to download the data used in the course Surv699 in 2016.
 
 ##Installation
-
-### Install the R package:
-`devtools::install_github("DanielBonnery/...")`
+`devtools::install_github("DanielBonnery/JPSMsurv699")`
 
 
 
