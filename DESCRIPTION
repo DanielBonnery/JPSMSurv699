@@ -6,9 +6,9 @@ Date: 2020-01-17
 Author: D. Bonnery
 Maintainer: D. Bonnery  <dbonnery@umd.edu>
 Description: Data
-Remotes: dataincome,
-	dataCholesterol,
-	dataBaseccirpp09
+Remotes: DanielBonnery/dataincome,
+	DanielBonnery/dataCholesterol,
+	DanielBonnery/dataBaseccirpp09
 License: GPL (>= 2)
 LazyLoad: yes
 LazyData: true
